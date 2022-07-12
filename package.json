@@ -1,6 +1,6 @@
 {
-  "name": "npm-demo-app",
-  "version": "1.0.0",
+  "name": "is-this-array",
+  "version": "2.0.0",
   "description": "Use for verifying npm punlish",
   "main": "index.js",
   "scripts": {
