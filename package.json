@@ -1,0 +1,20 @@
+{
+  "name": "npm-demo-app",
+  "version": "1.0.0",
+  "description": "Use for verifying npm punlish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bharat",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbj1980/npm-github.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bbj1980/npm-github/issues"
+  },
+  "homepage": "https://github.com/bbj1980/npm-github#readme"
+}
